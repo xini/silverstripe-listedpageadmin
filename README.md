@@ -1,7 +1,8 @@
-SilverStripe ListedPageAdmin Module
-===================================
-Adds the functionality to edit sitetree objects in a listed model admin environment and hide them from the site tree. Also works with translatable.
+# SilverStripe ListedPageAdmin Module
 
+**This is an archived project and is no longer maintained. Please do not file issues or pull-requests against this repo. If you wish to continue to develop this code yourself, we recommend you fork it or contact us.**
+
+Adds the functionality to edit sitetree objects in a listed model admin environment and hide them from the site tree. Also works with translatable.
 
 ## Requirements
 * SilverStripe CMS 3.1.x
